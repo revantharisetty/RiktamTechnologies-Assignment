@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiktamTechnologies", "RiktamTechnologies\RiktamTechnologies.csproj", "{9D75A2E8-DE3B-472C-A91D-EBCC982719A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5ABBAED4-5C4E-430E-A9E8-AD4E7A9EDE47}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiktumTestProject", "RiktumTestProject\RiktumTestProject.csproj", "{FEFE9B14-A48F-40F7-B9D7-B2C5AC6E3C43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D75A2E8-DE3B-472C-A91D-EBCC982719A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D75A2E8-DE3B-472C-A91D-EBCC982719A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D75A2E8-DE3B-472C-A91D-EBCC982719A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D75A2E8-DE3B-472C-A91D-EBCC982719A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFE9B14-A48F-40F7-B9D7-B2C5AC6E3C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFE9B14-A48F-40F7-B9D7-B2C5AC6E3C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFE9B14-A48F-40F7-B9D7-B2C5AC6E3C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFE9B14-A48F-40F7-B9D7-B2C5AC6E3C43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE9E59A2-B9E1-4393-A908-0FD480A2FB57}
+	EndGlobalSection
+EndGlobal
